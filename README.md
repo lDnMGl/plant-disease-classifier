@@ -1,7 +1,7 @@
 # 🌿 Plant Disease Classifier
 
 Clasificador de enfermedades en hojas de plantas usando **Transfer Learning con MobileNetV2**.  
-Proyecto Final — Inteligencia Artificial | UDLAP | Otoño 2024
+Proyecto Final — Inteligencia Artificial 
 
 ---
 
