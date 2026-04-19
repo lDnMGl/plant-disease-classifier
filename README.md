@@ -75,7 +75,7 @@ Runtime > Change runtime type > T4 GPU > Save
 
 ### Paso 2 — Clonar el repositorio
 ```bash
-!git clone https://github.com/TU_USUARIO/plant-disease-classifier.git
+!git clone https://github.com/lDnMGl/plant-disease-classifier.git
 %cd plant-disease-classifier
 !pip install -r requirements.txt -q
 ```
