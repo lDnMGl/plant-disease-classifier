@@ -1,0 +1,29 @@
+# Modelo entrenado (muy pesado para GitHub)
+*.keras
+*.h5
+*.pkl
+
+# Dataset
+plantvillage/
+data/
+
+# Kaggle credentials
+kaggle.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Las imágenes de resultados SÍ se suben (están en /results/)
