@@ -152,13 +152,4 @@ plant-disease-classifier/
 - Hughes, D., & Salathé, M. (2015). An open access repository of images on plant health. *arXiv:1511.08060*.
 - Ferentinos, K. P. (2018). Deep learning models for plant disease detection. *Computers and Electronics in Agriculture*, 145, 311–318.
 
----
 
-## 👨‍💻 Autores
-
-| | |
-|---|---|
-| **Curso** | Inteligencia Artificial |
-| **Profesor(a)** | Dra. Alejandra Hernandez Sanchez |
-| **Institución** | UDLAP — Depto. Computación, Electrónica y Mecatrónica |
-| **Término** | Otoño 2024 |
